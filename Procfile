@@ -1,1 +1,1 @@
-web: node kimono.js
+web: node burnmap.js
